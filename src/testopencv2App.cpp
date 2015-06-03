@@ -26,7 +26,8 @@ void testopencv2App::setup()
 	cv::Mat output;
 	//
 	//
-
+	//
+	//
 
 
 	cv::medianBlur( input, output, 11 );
