@@ -24,10 +24,6 @@ void testopencv2App::setup()
 	ci::Surface8u surface( loadImage( loadAsset( "dfw.jpg" ) ) );
 	cv::Mat input( toOcv( surface ) );
 	cv::Mat output;
-	//
-	//
-	//
-	//
 
 
 	cv::medianBlur( input, output, 11 );
