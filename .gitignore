@@ -1,0 +1,11 @@
+assets/dfw.jpg
+*.ico
+vc2013/Debug/Resources.res
+*.tlog
+vc2013/Debug/vc120.idb
+*.opensdf
+vc2013/testopencv2.sdf
+*.sln
+vc2013/testopencv2.vcxproj
+*.filters
+vc2013/Resources.rc
